@@ -34,11 +34,16 @@ hr {
 
 .texto-rosa {
   color: #d63384 !important;
-  
+}
+
+a {
+  font-size: 18px;
 }
 
 a.texto-rosa:hover, a.text-primary:focus {
-  color: #e85181 !important;
+  color: #51ace8 !important;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 
