@@ -424,9 +424,20 @@ flex-direction: column;
 
 
 /*boton de contacto*/
+.btn.btn-primary {
 
-.btn-primary {
-  color: #212529;
+  color: #ffffff;
   background-color: #F195B2;
-  border-color: #F195B2;
+  border-color: pink;
+}
+
+
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary:active,
+.btn.btn-primary.active
+{
+  color: #ffffff;
+  background-color: #62C3E7;
+  border-color: pink;
 }
