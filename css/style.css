@@ -450,3 +450,21 @@ flex-direction: column;
 
 }
 
+/*productos*/
+
+.producto-item{
+  background-color: rgb(255, 255, 255);
+  border:1px solid rgb(190, 190, 190);
+
+}
+.producto-item h5 {
+  transition: .5s;
+}
+
+.producto-item:hover {
+  background: #88d5f1 !important;
+}
+
+.producto-item:hover h5 {
+  color: #FFFFFF !important;
+}
