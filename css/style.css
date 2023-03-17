@@ -438,3 +438,15 @@ flex-direction: column;
   background-color: #62C3E7;
   border-color: pink;
 }
+
+
+.contenedor-planes
+{
+  width: 100%;
+  padding-right: 15%;
+  padding-left: 15%;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
