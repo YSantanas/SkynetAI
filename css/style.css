@@ -194,7 +194,6 @@ body {
   color: #ffffff;
   background-color:#393939;
 
-
 }
 
 /*TITULOS */
@@ -436,7 +435,7 @@ flex-direction: column;
 {
   color: #ffffff;
   background-color: #62C3E7;
-  border-color: pink;
+  border-color: rgb(255, 255, 255);
 }
 
 
@@ -467,4 +466,16 @@ flex-direction: column;
 
 .producto-item:hover h5 {
   color: #FFFFFF !important;
+}
+
+/*Fondos inicios*/
+
+.fondo-inicio1 {
+  background-color: #f5b6ca;
+  color: #FFFFFF;
+}
+
+.fondo-inicio2 {
+  color: #FFFFFF;
+  background-color: #9adcf5;
 }
